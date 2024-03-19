@@ -258,7 +258,7 @@ h3.menu-item-title {
   text-align: center;
   background-color: #4e3e13d5;
   margin: auto;
-  width: 35%;
+  width: fit-content;
 }
 
 .about-discription {
